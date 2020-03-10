@@ -1,0 +1,114 @@
+commit de5a68543ee06f170288801331fb21cc433c3c8d
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 13:10:02 2020 +0200
+
+    muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 08401e5ce40334a9a68a2e94638b5021f44aa344
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 13:02:59 2020 +0200
+
+    tiedostot luotu
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 6c97dcfacbcddbfde72d0b57b538cf58dd84e146
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:42:52 2020 +0200
+
+    tiedostojen editointia
+
+ eka.txt    | 141 +--------------------------------------------
+ kolmas.txt | 192 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 193 insertions(+), 140 deletions(-)
+
+commit 7576b8875333b8504460b360c278d536adb8c520
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:38:18 2020 +0200
+
+    tiedosto.txt uudelleennimetty eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 25c441673c6148d44e1e38483d18cd3909070efe
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:35:59 2020 +0200
+
+    toinen.txt poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 036c78b343f46a18d63a0ae0392500af957a33ac
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:32:10 2020 +0200
+
+    tiedosto.txt editointi
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit cf01ba19231b4fc73c766a3a25194b108c35449a
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:30:23 2020 +0200
+
+    tiedosto.txt lisätty tekstia
+
+ tiedosto.txt | 122373 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 122373 insertions(+)
+
+commit cc1dcdee1427abca5942e81d656aaa7da290a19c
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:19:08 2020 +0200
+
+    hakemisto stuff luotu
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 53905edf2f728a065a839b3e7d8252457244e330
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:16:38 2020 +0200
+
+    muutokset
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 7af1584b0e09b4295db06811d9cebdee05d3d4ca
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:10:40 2020 +0200
+
+    tiedosto kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d250f62a9be083b3d688185fe741cc34aebd4c57
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:06:32 2020 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 4f662800f863b2d1eff008c45c07123a8d48b84f
+Author: Tuomas Vainio <tuomas.vainio@helsinki.fi>
+Date:   Tue Mar 10 12:02:30 2020 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
