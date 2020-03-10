@@ -8,6 +8,6 @@ __This will also be bold__
 
 
 
-[gitlog.txt]https://github.com/stjvaini/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt
+[gitlog.txt](https://github.com/stjvaini/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
-https://github.com/stjvaini/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt
+[komentorivi.txt](https://github.com/stjvaini/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
