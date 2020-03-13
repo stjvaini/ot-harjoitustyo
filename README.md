@@ -16,4 +16,6 @@ __This will also be bold__
 
 
 # dokumentaatio
-[komentorivi.txt](https://github.com/stjvaini/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+[Vaatimusmäärittely](https://github.com/stjvaini/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+[Työaikakirjanpito](https://github.com/stjvaini/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
