@@ -22,15 +22,13 @@ Graafinen käyttöliittymä tulee koostumaan omista näkymistään jokaiselle to
 
 -lisätä käyttäjä
 -lisätä elokuva
-
-- kirjautua järjestelmään
+-kirjautua järjestelmään
 
 
 ### Kirjautumisen jälkeen
 
 -kirjata elokuva katsotuksi ja mahdollisesti arvioida se.
 -käyttäjä näkee listan katsomistaan elokuvista ja arvioistaan.
-
 -kirjautua ulos
 
 ## Jatkokehitysideoita
